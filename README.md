@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Burcu</h1>
-<h3 align="center">I am a Computer Engineering student at Nişantaşı University in my third year, and I am also pursuing a double major in Industrial Engineering.</h3>
+<h1 align="center">Merhaba 👋,ben Burcu </h1>
+<h3 align="center">Bilgisayar mühendisliği son sınıf öğrencisiyim. C#, Asp.Net ile projeler geliştiriyorum. Back-end geliştirme ile ilgileniyorum.</h3>
 
 
 
-- 🌱 I’m currently learning **C#**
+- Kullandığımve proje geliştirdiğim alanlar: **C#, ASP.NET**
 
-- 📄 I'm interested in **cyber security**
+- Araştırmaktan keyif aldığım diğer alanlar **Siber güvenlik, yapay zeka**
 
-- 📝 I wrote articles on **some technological subject**
-
-- 📫 You can reach me **tcburcu.kocaer@gmail.com**
+- Bana buradan ulaşabilirsiniz: **tcburcu.kocaer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
