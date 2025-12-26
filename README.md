@@ -3,7 +3,7 @@
 
 
 
-- Kullandığımve proje geliştirdiğim alanlar: **C#, ASP.NET**
+- Kullandığım ve proje geliştirdiğim alanlar: **C#, ASP.NET**
 
 - Araştırmaktan keyif aldığım diğer alanlar **Siber güvenlik, yapay zeka**
 
